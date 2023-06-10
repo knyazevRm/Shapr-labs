@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Task6_5\Task6_5\bin\Debug\Task6_5.exe.config
+C:\Users\Asus\source\repos\Task6_5\Task6_5\bin\Debug\Task6_5.exe
+C:\Users\Asus\source\repos\Task6_5\Task6_5\bin\Debug\Task6_5.pdb
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.Form1.resources
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.Properties.Resources.resources
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.exe
+C:\Users\Asus\source\repos\Task6_5\Task6_5\obj\Debug\Task6_5.pdb

@@ -1,0 +1,15 @@
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/bin/Debug/net7.0/Task1new
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/bin/Debug/net7.0/Task1new.deps.json
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/bin/Debug/net7.0/Task1new.runtimeconfig.json
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/bin/Debug/net7.0/Task1new.dll
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/bin/Debug/net7.0/Task1new.pdb
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.csproj.AssemblyReference.cache
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.AssemblyInfoInputs.cache
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.AssemblyInfo.cs
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.csproj.CoreCompileInputs.cache
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.dll
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/refint/Task1new.dll
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.pdb
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/Task1new.genruntimeconfig.cache
+/Users/romanknazev/Desktop/IT/Task1new/Task1new/obj/Debug/net7.0/ref/Task1new.dll

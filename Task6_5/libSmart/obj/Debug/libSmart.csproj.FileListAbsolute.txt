@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\Task6_5\libSmart\bin\Debug\libSmart.dll
+C:\Users\Asus\source\repos\Task6_5\libSmart\bin\Debug\libSmart.pdb
+C:\Users\Asus\source\repos\Task6_5\libSmart\obj\Debug\libSmart.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Task6_5\libSmart\obj\Debug\libSmart.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Task6_5\libSmart\obj\Debug\libSmart.dll
+C:\Users\Asus\source\repos\Task6_5\libSmart\obj\Debug\libSmart.pdb

@@ -1,0 +1,15 @@
+/Users/romanknazev/Desktop/IT/Task3/Task3/bin/Debug/net7.0/Task3
+/Users/romanknazev/Desktop/IT/Task3/Task3/bin/Debug/net7.0/Task3.deps.json
+/Users/romanknazev/Desktop/IT/Task3/Task3/bin/Debug/net7.0/Task3.runtimeconfig.json
+/Users/romanknazev/Desktop/IT/Task3/Task3/bin/Debug/net7.0/Task3.dll
+/Users/romanknazev/Desktop/IT/Task3/Task3/bin/Debug/net7.0/Task3.pdb
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.csproj.AssemblyReference.cache
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.AssemblyInfoInputs.cache
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.AssemblyInfo.cs
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.csproj.CoreCompileInputs.cache
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.dll
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/refint/Task3.dll
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.pdb
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/Task3.genruntimeconfig.cache
+/Users/romanknazev/Desktop/IT/Task3/Task3/obj/Debug/net7.0/ref/Task3.dll

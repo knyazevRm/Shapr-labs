@@ -1,0 +1,15 @@
+/Users/romanknazev/Desktop/IT/Task5/Task5/bin/Debug/net7.0/Task5
+/Users/romanknazev/Desktop/IT/Task5/Task5/bin/Debug/net7.0/Task5.deps.json
+/Users/romanknazev/Desktop/IT/Task5/Task5/bin/Debug/net7.0/Task5.runtimeconfig.json
+/Users/romanknazev/Desktop/IT/Task5/Task5/bin/Debug/net7.0/Task5.dll
+/Users/romanknazev/Desktop/IT/Task5/Task5/bin/Debug/net7.0/Task5.pdb
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.csproj.AssemblyReference.cache
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.AssemblyInfoInputs.cache
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.AssemblyInfo.cs
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.csproj.CoreCompileInputs.cache
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.dll
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/refint/Task5.dll
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.pdb
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/Task5.genruntimeconfig.cache
+/Users/romanknazev/Desktop/IT/Task5/Task5/obj/Debug/net7.0/ref/Task5.dll
